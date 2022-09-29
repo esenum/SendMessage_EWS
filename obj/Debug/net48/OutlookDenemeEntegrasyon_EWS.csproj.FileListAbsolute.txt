@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\OutlookDenemeEntegrasyon_EWS\bin\Debug\net48\OutlookDenemeEntegrasyon_EWS.exe.config
+C:\Users\HP\Desktop\OutlookDenemeEntegrasyon_EWS\bin\Debug\net48\OutlookDenemeEntegrasyon_EWS.exe
+C:\Users\HP\Desktop\OutlookDenemeEntegrasyon_EWS\bin\Debug\net48\OutlookDenemeEntegrasyon_EWS.pdb
+C:\Users\HP\Desktop\OutlookDenemeEntegrasyon_EWS\bin\Debug\net48\Microsoft.Exchange.WebServices.dll
+C:\Users\HP\Desktop\OutlookDenemeEntegrasyon_EWS\obj\Debug\net48\OutlookDenemeEntegrasyon_EWS.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\OutlookDenemeEntegrasyon_EWS\obj\Debug\net48\OutlookDenemeEntegrasyon_EWS.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\OutlookDenemeEntegrasyon_EWS\obj\Debug\net48\OutlookDenemeEntegrasyon_EWS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\OutlookDenemeEntegrasyon_EWS\obj\Debug\net48\OutlookDenemeEntegrasyon_EWS.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\OutlookDenemeEntegrasyon_EWS\obj\Debug\net48\OutlookDenemeEntegrasyon_EWS.AssemblyInfo.cs
+C:\Users\HP\Desktop\OutlookDenemeEntegrasyon_EWS\obj\Debug\net48\OutlookDenemeEntegrasyon_EWS.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\OutlookDenemeEntegrasyon_EWS\obj\Debug\net48\OutlookDenemeEntegrasyon_EWS.csproj.CopyComplete
+C:\Users\HP\Desktop\OutlookDenemeEntegrasyon_EWS\obj\Debug\net48\OutlookDenemeEntegrasyon_EWS.exe
+C:\Users\HP\Desktop\OutlookDenemeEntegrasyon_EWS\obj\Debug\net48\OutlookDenemeEntegrasyon_EWS.pdb

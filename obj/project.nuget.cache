@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O3oGkWym/tEtLFbNjCBUww5lfJihECAntfGjp/mWdh2k1uIOo5hcpb+fJ+rg5q5q8pb0ZNnEgIeEnQuq7l1zCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\OutlookDenemeEntegrasyon_EWS\\OutlookDenemeEntegrasyon_EWS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\exchange.webservices.managed.api\\2.2.1.2\\exchange.webservices.managed.api.2.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

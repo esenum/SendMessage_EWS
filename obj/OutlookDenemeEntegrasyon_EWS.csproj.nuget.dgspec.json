@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HP\\Desktop\\OutlookDenemeEntegrasyon_EWS\\OutlookDenemeEntegrasyon_EWS.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HP\\Desktop\\OutlookDenemeEntegrasyon_EWS\\OutlookDenemeEntegrasyon_EWS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\OutlookDenemeEntegrasyon_EWS\\OutlookDenemeEntegrasyon_EWS.csproj",
+        "projectName": "OutlookDenemeEntegrasyon_EWS",
+        "projectPath": "C:\\Users\\HP\\Desktop\\OutlookDenemeEntegrasyon_EWS\\OutlookDenemeEntegrasyon_EWS.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\OutlookDenemeEntegrasyon_EWS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Exchange.WebServices.Managed.Api": {
+              "target": "Package",
+              "version": "[2.2.1.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.109\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
